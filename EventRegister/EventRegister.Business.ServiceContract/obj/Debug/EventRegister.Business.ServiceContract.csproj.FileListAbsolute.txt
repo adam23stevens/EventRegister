@@ -1,0 +1,16 @@
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.ServiceContract.dll.config
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.ServiceContract.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.ServiceContract.pdb
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EntityFramework.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EntityFramework.SqlServer.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.RepoContract.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.Sql.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.RepoContract.pdb
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.RepoContract.dll.config
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EntityFramework.xml
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EntityFramework.SqlServer.xml
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.Sql.pdb
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\bin\Debug\EventRegister.Business.Sql.dll.config
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\obj\Debug\EventRegister.Business.ServiceContract.csprojResolveAssemblyReference.cache
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\obj\Debug\EventRegister.Business.ServiceContract.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.ServiceContract\obj\Debug\EventRegister.Business.ServiceContract.pdb

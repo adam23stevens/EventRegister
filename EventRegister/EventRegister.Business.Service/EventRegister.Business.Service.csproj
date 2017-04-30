@@ -47,12 +47,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="EventRegService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EventRegister.Business.RepoContract\EventRegister.Business.RepoContract.csproj">
+      <Project>{C9E6BAAC-C518-4094-8743-6B516F38F506}</Project>
+      <Name>EventRegister.Business.RepoContract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EventRegister.Business.ServiceContract\EventRegister.Business.ServiceContract.csproj">
+      <Project>{229b1167-68f5-4a05-a01e-ee18b914a730}</Project>
+      <Name>EventRegister.Business.ServiceContract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EventRegister.Business.Sql\EventRegister.Business.Sql.csproj">
+      <Project>{AF5EF5B8-DE6F-40E2-9BF5-890228E4AE55}</Project>
+      <Name>EventRegister.Business.Sql</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

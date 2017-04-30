@@ -47,12 +47,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="IEventRegRepo.cs" />
+    <Compile Include="Model\BaseRequest.cs" />
+    <Compile Include="Model\EventReq.cs" />
+    <Compile Include="Model\RegisterReq.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EventRegister.Business.Sql\EventRegister.Business.Sql.csproj">
+      <Project>{af5ef5b8-de6f-40e2-9bf5-890228e4ae55}</Project>
+      <Name>EventRegister.Business.Sql</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

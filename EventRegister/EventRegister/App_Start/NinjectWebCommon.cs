@@ -10,6 +10,8 @@ namespace EventRegister.App_Start
 
     using Ninject;
     using Ninject.Web.Common;
+    using System.Web.Mvc;
+    using EventRegister.Business.DI;
 
     public static class NinjectWebCommon 
     {
@@ -61,6 +63,7 @@ namespace EventRegister.App_Start
         /// <param name="kernel">The kernel.</param>
         private static void RegisterServices(IKernel kernel)
         {
+            DependencyResolver.SetResolver(new EventRegisterDIResolver(kernel));
         }        
     }
 }
