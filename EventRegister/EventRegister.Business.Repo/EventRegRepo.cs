@@ -56,7 +56,9 @@ namespace EventRegister.Business.Repo
                 try
                 {
                     ctx.BeginTransaction();
-                    ctx.Events.FirstOrDefault(e => e.Name == req.EventName).RegisteredEmails.Add(req.EmailAddress);
+                    ctx.Events.FirstOrDefault(e => e.Name == req.EventName 
+                                            && e.Location.Country.CountryCode == req.Country)
+                                            .RegisteredEmails.Add(req.EmailAddress);
                     ctx.SetModified(ctx.Events);
                     ctx.CommitTransaction();
                 }

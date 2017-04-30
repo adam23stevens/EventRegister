@@ -196,7 +196,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\EventController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -278,6 +278,10 @@
     <ProjectReference Include="..\EventRegister.Business.DI\EventRegister.Business.DI.csproj">
       <Project>{51C9765C-23CA-420B-B1D6-3F99B2226838}</Project>
       <Name>EventRegister.Business.DI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EventRegister.Business.RepoContract\EventRegister.Business.RepoContract.csproj">
+      <Project>{C9E6BAAC-C518-4094-8743-6B516F38F506}</Project>
+      <Name>EventRegister.Business.RepoContract</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

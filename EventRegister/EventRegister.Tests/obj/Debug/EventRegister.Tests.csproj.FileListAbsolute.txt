@@ -85,3 +85,7 @@ C:\source\repos\EventRegister\EventRegister\EventRegister.Tests\bin\Debug\EventR
 C:\source\repos\EventRegister\EventRegister\EventRegister.Tests\bin\Debug\EventRegister.Business.Service.pdb
 C:\source\repos\EventRegister\EventRegister\EventRegister.Tests\bin\Debug\EventRegister.Business.Service.dll.config
 C:\source\repos\EventRegister\EventRegister\EventRegister.Tests\bin\Debug\EntityFramework.xml
+C:\source\repos\EventRegister\EventRegister\EventRegister.Tests\bin\Debug\Castle.Core.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Tests\bin\Debug\Moq.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Tests\bin\Debug\Castle.Core.xml
+C:\source\repos\EventRegister\EventRegister\EventRegister.Tests\bin\Debug\Moq.xml

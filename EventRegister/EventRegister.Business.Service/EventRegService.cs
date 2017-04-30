@@ -43,7 +43,7 @@ namespace EventRegister.Business.Service
 
             string eventName = req.EventName;
             string timeZoneName = repo.GetAllEvents()
-                .FirstOrDefault(e => e.Name == req.EventName)
+                .FirstOrDefault(e => e.Name == req.EventName && e.Location.Country.CountryCode == req.Country)                
                 .Location.LocationTimezone.Name;
 
             DateTime ukEndTime = repo.GetAllEvents()
@@ -59,7 +59,7 @@ namespace EventRegister.Business.Service
         {
             string emailAddress = req.EmailAddress;
             return repo.GetAllEvents()
-                .FirstOrDefault(e => e.Name == req.EventName).RegisteredEmails
+                .FirstOrDefault(e => e.Name == req.EventName && e.Location.Country.CountryCode == req.Country).RegisteredEmails
                 .Any(em => em == emailAddress);
         }
     }
