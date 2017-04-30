@@ -1,0 +1,12 @@
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\bin\Debug\EventRegister.Business.Sql.dll.config
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\bin\Debug\EventRegister.Business.Sql.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\bin\Debug\EventRegister.Business.Sql.pdb
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\bin\Debug\EntityFramework.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\bin\Debug\EntityFramework.SqlServer.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\bin\Debug\EntityFramework.xml
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\bin\Debug\EntityFramework.SqlServer.xml
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\obj\Debug\EventRegister.Business.Sql.csprojResolveAssemblyReference.cache
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\obj\Debug\EventRegister.Business.Sql.dll
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\obj\Debug\EventRegister.Business.Sql.pdb
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\obj\Debug\EventRegister.Business.Sql.Migrations.initDb.resources
+C:\source\repos\EventRegister\EventRegister\EventRegister.Business.Sql\obj\Debug\EventRegister.Business.Sql.csproj.GenerateResource.Cache
