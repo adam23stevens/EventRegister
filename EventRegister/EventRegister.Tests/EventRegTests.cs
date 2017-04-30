@@ -35,8 +35,8 @@ namespace EventRegister.Tests
                           },
                           LocationTimezone = new LocationTimezone
                           {
-                              Name = "UK",
-                              Id = "GMT Standard Time"
+                              Id = "UK",
+                              Name = "GMT Standard Time"
                           }
                      }
                 }
