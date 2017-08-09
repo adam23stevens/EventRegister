@@ -11,3 +11,16 @@ C:\source\repos\EventRegister\EventRegister\EventRegister.Business.RepoContract\
 C:\source\repos\EventRegister\EventRegister\EventRegister.Business.RepoContract\obj\Debug\EventRegister.Business.RepoContract.csprojResolveAssemblyReference.cache
 C:\source\repos\EventRegister\EventRegister\EventRegister.Business.RepoContract\obj\Debug\EventRegister.Business.RepoContract.dll
 C:\source\repos\EventRegister\EventRegister\EventRegister.Business.RepoContract\obj\Debug\EventRegister.Business.RepoContract.pdb
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EventRegister.Business.RepoContract.dll.config
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EventRegister.Business.RepoContract.dll
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EventRegister.Business.RepoContract.pdb
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EntityFramework.dll
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EventRegister.Business.Sql.dll
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EventRegister.Business.Sql.pdb
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EventRegister.Business.Sql.dll.config
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EntityFramework.xml
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\obj\Debug\EventRegister.Business.RepoContract.csprojResolveAssemblyReference.cache
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\obj\Debug\EventRegister.Business.RepoContract.dll
+D:\Dev\Projects\EventRegister\EventRegister\EventRegister.Business.RepoContract\obj\Debug\EventRegister.Business.RepoContract.pdb
